@@ -1,8 +1,9 @@
-import Dashboard from "./components/Dashboard/Dashboard";
+
+import Whole from "./Whole";
 function App()
 {
   return(
-    <Dashboard/>
+    <Whole/>
   )
 }
 export default App;
